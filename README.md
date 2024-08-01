@@ -51,9 +51,13 @@ To support the training and deployment of these models, AWS SageMaker was used. 
 ![Amazon Architecture](https://github.com/felixkwasisarpong/AmazonSentiment/blob/main/Sentiment_Analysis.png)
 ## Challenges
 ***High Computational Resources:*** Training BERT requires significant computational power.
+
 ***Long Training Times:*** The complexity of BERT results in longer training durations.
+
 ***Fine-Tuning Complexity:*** Finding optimal hyperparameters for BERT is challenging.
+
 ***Handling Imbalanced Data:*** Sentiment analysis datasets often have class imbalances.
+
 ***Memory Consumption:*** BERT’s large model size can lead to high memory usage.
 
 ## Conclusion
