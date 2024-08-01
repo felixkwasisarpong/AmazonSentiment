@@ -38,17 +38,17 @@ Execute the cells to load the dataset, train the models, and visualize the resul
 Results
 
 Accuracy Graph for Bert
-![bert accuracy](https://github.com/felixkwasisarpong/AmazonSentiment/main/bert_accuracy.png?raw=true)
+![bert accuracy](https://github.com/felixkwasisarpong/AmazonSentiment/blob/main/bert_accuracy.png)
 Accuracy Graph for BiLSTM
-
+![BiLSTM accuracy](https://github.com/felixkwasisarpong/AmazonSentiment/main/BiLSTM_accuracy.png)
 Loss Graphs for Bert
-![bert accuracy](https://github.com/felixkwasisarpong/AmazonSentiment/main/bert_loss.png?raw=true)
+![bert accuracy](https://github.com/felixkwasisarpong/AmazonSentiment/blob/main/bert_loss.png)
 Loss Graphs for BiLSTM
-
+![BiLSTM loss](https://github.com/felixkwasisarpong/AmazonSentiment/blob/main/BiLSTM_loss.png)
 
 ## AWS Architecture
 To support the training and deployment of these models, AWS SageMaker was used. Below is the architecture diagram:
-![Amazon Architecture](https://github.com/felixkwasisarpong/AmazonSentiment/main/Sentiment_Analysis.png?raw=true)
+![Amazon Architecture](https://github.com/felixkwasisarpong/AmazonSentiment/blob/main/Sentiment_Analysis.png)
 ## Challenges
 ***High Computational Resources:*** Training BERT requires significant computational power.
 ***Long Training Times:*** The complexity of BERT results in longer training durations.
